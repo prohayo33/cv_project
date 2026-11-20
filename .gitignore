@@ -1,0 +1,7 @@
+oxford_dataset.zip
+*.zip
+oxford_dataset/
+.venv/
+__pycache__/
+*.pth
+*.pt
